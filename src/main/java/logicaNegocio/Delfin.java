@@ -1,5 +1,18 @@
 package logicaNegocio;
 
 public class Delfin {
-    // TODO: Aquí va tu código
+
+
+   public Delfin() {
+    }
+
+    
+    public String emitirSonido() {
+        return "Chirrido";
+    }
+
+ 
+    public String obtenerDieta() {
+        return "Pescado";
+    }
 }
