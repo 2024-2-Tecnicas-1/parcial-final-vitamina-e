@@ -1,5 +1,16 @@
 package logicaNegocio;
 
 public class Leon {
-    // TODO: Aquí va tu código
+   
+    
+   public Leon(){
+      
+  }
+   public String emitirSonido(){
+   return "Rugido";
+   }
+   public String obtenerDieta(){
+   return "Carnivoro";
+   }
+   
 }
